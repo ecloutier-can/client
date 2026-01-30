@@ -123,6 +123,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-.bg-background { background-color: var(--background); }
-.text-foreground { color: var(--foreground); }
